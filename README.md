@@ -1,5 +1,9 @@
-## Hi there 👋
+<div>
+  <h1 align="center">Hi 👋, Everybody~</h1>
+</div>
 
+### 🤖 AI Engineer & Full-Stack Developer
+I build autonomous agentic workflows and scalable AI systems. Currently focused on orchestration with **LangGraph** and high-speed inference using **Gemini 2.5/3 Flash**.
 <!--
 **a4abs/a4abs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
